@@ -42,3 +42,8 @@ creating alot of the back-end code.
 ### Documentation
 As part of this assignment we have to submit a written Report explaining the different aspects and components of the application. Jointly the 3 of us in my team worked together to
 create this document.
+
+### Presentation PowerPoint
+I have also included in this Repository a oopy of the Project Presentation
+
+## For this Project I was the Lead Developer, as well as the Project Manager
