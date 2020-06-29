@@ -1,0 +1,87 @@
+C:\Users\benja\OneDrive\Documents\Software Engineering\Self Service\Library_SCO\Library_SCO\bin\Debug\Library_SCO.exe.config
+C:\Users\benja\OneDrive\Documents\Software Engineering\Self Service\Library_SCO\Library_SCO\bin\Debug\Library_SCO.exe
+C:\Users\benja\OneDrive\Documents\Software Engineering\Self Service\Library_SCO\Library_SCO\bin\Debug\Library_SCO.pdb
+C:\Users\benja\OneDrive\Documents\Software Engineering\Self Service\Library_SCO\Library_SCO\obj\Debug\Library_SCO.csprojAssemblyReference.cache
+C:\Users\benja\OneDrive\Documents\Software Engineering\Self Service\Library_SCO\Library_SCO\obj\Debug\Library_SCO.Properties.Resources.resources
+C:\Users\benja\OneDrive\Documents\Software Engineering\Self Service\Library_SCO\Library_SCO\obj\Debug\Library_SCO.csproj.GenerateResource.cache
+C:\Users\benja\OneDrive\Documents\Software Engineering\Self Service\Library_SCO\Library_SCO\obj\Debug\Library_SCO.exe
+C:\Users\benja\OneDrive\Documents\Software Engineering\Self Service\Library_SCO\Library_SCO\obj\Debug\Library_SCO.pdb
+C:\Users\benja\OneDrive\Documents\Software Engineering\Self Service\Library_SCO\Library_SCO\obj\Debug\Library_SCO.Login.resources
+C:\Users\benja\OneDrive\Documents\Software Engineering\Self Service\Library_SCO\Library_SCO\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\benja\OneDrive\Documents\Software Engineering\Self Service\Library_SCO\Library_SCO\bin\Debug\Google.Protobuf.dll
+C:\Users\benja\OneDrive\Documents\Software Engineering\Self Service\Library_SCO\Library_SCO\bin\Debug\MySql.Data.dll
+C:\Users\benja\OneDrive\Documents\Software Engineering\Self Service\Library_SCO\Library_SCO\bin\Debug\Renci.SshNet.dll
+C:\Users\benja\OneDrive\Documents\Software Engineering\Self Service\Library_SCO\Library_SCO\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\benja\OneDrive\Documents\Software Engineering\Self Service\Library_SCO\Library_SCO\bin\Debug\Google.Protobuf.xml
+C:\Users\benja\OneDrive\Documents\Software Engineering\Self Service\Library_SCO\Library_SCO\bin\Debug\MySql.Data.xml
+C:\Users\benja\OneDrive\Documents\Software Engineering\Self Service\Library_SCO\Library_SCO\bin\Debug\Renci.SshNet.xml
+C:\Users\benja\OneDrive\Documents\Software Engineering\Self Service\Library_SCO\Library_SCO\obj\Debug\Library_SCO.csproj.CopyComplete
+C:\Users\benja\OneDrive\Documents\Software Engineering\Self Service\Library_SCO\Library_SCO\obj\Debug\Library_SCO.IssueBook.resources
+C:\Users\benja\OneDrive\Documents\Software Engineering\Self Service\Library_SCO\Library_SCO\bin\Debug\phutils.dll
+C:\Users\benja\OneDrive\Documents\Software Engineering\Self Service\Library_SCO\Library_SCO\bin\Debug\Phidget22.NET.dll
+C:\Users\benja\OneDrive\Documents\Software Engineering\Self Service\Library_SCO\Library_SCO\bin\Debug\Phidget22.NET.pdb
+C:\Users\benja\OneDrive\Documents\Software Engineering\Self Service\Library_SCO\Library_SCO\bin\Debug\Phidget22.NET.xml
+C:\Users\benja\Visual Studio Projects\IT721\Library_SCO\Library_SCO\obj\Debug\Library_SCO.csprojAssemblyReference.cache
+C:\Users\benja\Visual Studio Projects\IT721\Library_SCO\Library_SCO\obj\Debug\Library_SCO.FM_Logout.resources
+C:\Users\benja\Visual Studio Projects\IT721\Library_SCO\Library_SCO\obj\Debug\Library_SCO.Properties.Resources.resources
+C:\Users\benja\Visual Studio Projects\IT721\Library_SCO\Library_SCO\obj\Debug\Library_SCO.csproj.GenerateResource.cache
+C:\Users\benja\Visual Studio Projects\IT721\Library_SCO\Library_SCO\obj\Debug\Library_SCO.csproj.CoreCompileInputs.cache
+C:\Users\benja\Visual Studio Projects\IT721\Library_SCO\Library_SCO\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\benja\Visual Studio Projects\IT721\Library_SCO\Library_SCO\bin\Debug\Google.Protobuf.dll
+C:\Users\benja\Visual Studio Projects\IT721\Library_SCO\Library_SCO\bin\Debug\MailKit.dll
+C:\Users\benja\Visual Studio Projects\IT721\Library_SCO\Library_SCO\bin\Debug\MimeKit.dll
+C:\Users\benja\Visual Studio Projects\IT721\Library_SCO\Library_SCO\bin\Debug\MySql.Data.dll
+C:\Users\benja\Visual Studio Projects\IT721\Library_SCO\Library_SCO\bin\Debug\Phidget22.NET.dll
+C:\Users\benja\Visual Studio Projects\IT721\Library_SCO\Library_SCO\bin\Debug\Renci.SshNet.dll
+C:\Users\benja\Visual Studio Projects\IT721\Library_SCO\Library_SCO\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\benja\Visual Studio Projects\IT721\Library_SCO\Library_SCO\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\benja\Visual Studio Projects\IT721\Library_SCO\Library_SCO\bin\Debug\Google.Protobuf.xml
+C:\Users\benja\Visual Studio Projects\IT721\Library_SCO\Library_SCO\bin\Debug\MailKit.pdb
+C:\Users\benja\Visual Studio Projects\IT721\Library_SCO\Library_SCO\bin\Debug\MailKit.xml
+C:\Users\benja\Visual Studio Projects\IT721\Library_SCO\Library_SCO\bin\Debug\MimeKit.pdb
+C:\Users\benja\Visual Studio Projects\IT721\Library_SCO\Library_SCO\bin\Debug\MimeKit.xml
+C:\Users\benja\Visual Studio Projects\IT721\Library_SCO\Library_SCO\bin\Debug\MySql.Data.xml
+C:\Users\benja\Visual Studio Projects\IT721\Library_SCO\Library_SCO\bin\Debug\Phidget22.NET.pdb
+C:\Users\benja\Visual Studio Projects\IT721\Library_SCO\Library_SCO\bin\Debug\Phidget22.NET.xml
+C:\Users\benja\Visual Studio Projects\IT721\Library_SCO\Library_SCO\bin\Debug\Renci.SshNet.xml
+C:\Users\benja\Visual Studio Projects\IT721\Library_SCO\Library_SCO\obj\Debug\Library_SCO.csproj.CopyComplete
+C:\Users\benja\Visual Studio Projects\IT721\Library_SCO\Library_SCO\obj\Debug\Library_SCO.Loading_Screen.resources
+C:\Users\benja\Visual Studio Projects\IT721\Library_SCO\Library_SCO\obj\Debug\Library_SCO.MainWindow.resources
+C:\Users\benja\Visual Studio Projects\IT721\Library_SCO\Library_SCO\bin\Debug\Snatch and Go.exe.config
+C:\Users\benja\Visual Studio Projects\IT721\Library_SCO\Library_SCO\bin\Debug\Snatch and Go.exe
+C:\Users\benja\Visual Studio Projects\IT721\Library_SCO\Library_SCO\bin\Debug\Snatch and Go.pdb
+C:\Users\benja\Visual Studio Projects\IT721\Library_SCO\Library_SCO\obj\Debug\Snatch and Go.exe
+C:\Users\benja\Visual Studio Projects\IT721\Library_SCO\Library_SCO\obj\Debug\Snatch and Go.pdb
+C:\Users\benja\Visual Studio Projects\IT721\Library_SCO\Library_SCO\obj\Debug\Library_SCO.Configuration_Settings.resources
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\Snatch and Go\VIsual Studio RAW Files\Library_SCO\bin\Debug\Snatch and Go.exe.config
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\Snatch and Go\VIsual Studio RAW Files\Library_SCO\bin\Debug\Snatch and Go.exe
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\Snatch and Go\VIsual Studio RAW Files\Library_SCO\bin\Debug\Snatch and Go.pdb
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\Snatch and Go\VIsual Studio RAW Files\Library_SCO\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\Snatch and Go\VIsual Studio RAW Files\Library_SCO\bin\Debug\Google.Protobuf.dll
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\Snatch and Go\VIsual Studio RAW Files\Library_SCO\bin\Debug\MailKit.dll
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\Snatch and Go\VIsual Studio RAW Files\Library_SCO\bin\Debug\MimeKit.dll
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\Snatch and Go\VIsual Studio RAW Files\Library_SCO\bin\Debug\MySql.Data.dll
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\Snatch and Go\VIsual Studio RAW Files\Library_SCO\bin\Debug\Phidget22.NET.dll
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\Snatch and Go\VIsual Studio RAW Files\Library_SCO\bin\Debug\Renci.SshNet.dll
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\Snatch and Go\VIsual Studio RAW Files\Library_SCO\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\Snatch and Go\VIsual Studio RAW Files\Library_SCO\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\Snatch and Go\VIsual Studio RAW Files\Library_SCO\bin\Debug\Google.Protobuf.xml
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\Snatch and Go\VIsual Studio RAW Files\Library_SCO\bin\Debug\MailKit.pdb
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\Snatch and Go\VIsual Studio RAW Files\Library_SCO\bin\Debug\MailKit.xml
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\Snatch and Go\VIsual Studio RAW Files\Library_SCO\bin\Debug\MimeKit.pdb
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\Snatch and Go\VIsual Studio RAW Files\Library_SCO\bin\Debug\MimeKit.xml
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\Snatch and Go\VIsual Studio RAW Files\Library_SCO\bin\Debug\MySql.Data.xml
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\Snatch and Go\VIsual Studio RAW Files\Library_SCO\bin\Debug\Phidget22.NET.pdb
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\Snatch and Go\VIsual Studio RAW Files\Library_SCO\bin\Debug\Phidget22.NET.xml
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\Snatch and Go\VIsual Studio RAW Files\Library_SCO\bin\Debug\Renci.SshNet.xml
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\Snatch and Go\VIsual Studio RAW Files\Library_SCO\obj\Debug\Library_SCO.csprojAssemblyReference.cache
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\Snatch and Go\VIsual Studio RAW Files\Library_SCO\obj\Debug\Library_SCO.Configuration_Settings.resources
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\Snatch and Go\VIsual Studio RAW Files\Library_SCO\obj\Debug\Library_SCO.FM_Logout.resources
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\Snatch and Go\VIsual Studio RAW Files\Library_SCO\obj\Debug\Library_SCO.Loading_Screen.resources
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\Snatch and Go\VIsual Studio RAW Files\Library_SCO\obj\Debug\Library_SCO.MainWindow.resources
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\Snatch and Go\VIsual Studio RAW Files\Library_SCO\obj\Debug\Library_SCO.Properties.Resources.resources
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\Snatch and Go\VIsual Studio RAW Files\Library_SCO\obj\Debug\Library_SCO.csproj.GenerateResource.cache
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\Snatch and Go\VIsual Studio RAW Files\Library_SCO\obj\Debug\Library_SCO.csproj.CoreCompileInputs.cache
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\Snatch and Go\VIsual Studio RAW Files\Library_SCO\obj\Debug\Library_SCO.csproj.CopyComplete
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\Snatch and Go\VIsual Studio RAW Files\Library_SCO\obj\Debug\Snatch and Go.exe
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\Snatch and Go\VIsual Studio RAW Files\Library_SCO\obj\Debug\Snatch and Go.pdb

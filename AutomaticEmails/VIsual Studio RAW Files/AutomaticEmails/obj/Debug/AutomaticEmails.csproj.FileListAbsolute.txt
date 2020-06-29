@@ -1,0 +1,153 @@
+C:\Users\benja\Visual Studio Projects\IT721\AutomaticEmails\AutomaticEmails\obj\Debug\AutomaticEmails.csprojAssemblyReference.cache
+C:\Users\benja\Visual Studio Projects\IT721\AutomaticEmails\AutomaticEmails\bin\Debug\AutomaticEmails.exe.config
+C:\Users\benja\Visual Studio Projects\IT721\AutomaticEmails\AutomaticEmails\bin\Debug\AutomaticEmails.exe
+C:\Users\benja\Visual Studio Projects\IT721\AutomaticEmails\AutomaticEmails\bin\Debug\AutomaticEmails.pdb
+C:\Users\benja\Visual Studio Projects\IT721\AutomaticEmails\AutomaticEmails\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\benja\Visual Studio Projects\IT721\AutomaticEmails\AutomaticEmails\bin\Debug\Google.Protobuf.dll
+C:\Users\benja\Visual Studio Projects\IT721\AutomaticEmails\AutomaticEmails\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\benja\Visual Studio Projects\IT721\AutomaticEmails\AutomaticEmails\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\benja\Visual Studio Projects\IT721\AutomaticEmails\AutomaticEmails\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\benja\Visual Studio Projects\IT721\AutomaticEmails\AutomaticEmails\bin\Debug\MailKit.dll
+C:\Users\benja\Visual Studio Projects\IT721\AutomaticEmails\AutomaticEmails\bin\Debug\MimeKit.dll
+C:\Users\benja\Visual Studio Projects\IT721\AutomaticEmails\AutomaticEmails\bin\Debug\MySql.Data.dll
+C:\Users\benja\Visual Studio Projects\IT721\AutomaticEmails\AutomaticEmails\bin\Debug\Renci.SshNet.dll
+C:\Users\benja\Visual Studio Projects\IT721\AutomaticEmails\AutomaticEmails\bin\Debug\System.Buffers.dll
+C:\Users\benja\Visual Studio Projects\IT721\AutomaticEmails\AutomaticEmails\bin\Debug\System.Memory.dll
+C:\Users\benja\Visual Studio Projects\IT721\AutomaticEmails\AutomaticEmails\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\benja\Visual Studio Projects\IT721\AutomaticEmails\AutomaticEmails\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\benja\Visual Studio Projects\IT721\AutomaticEmails\AutomaticEmails\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\benja\Visual Studio Projects\IT721\AutomaticEmails\AutomaticEmails\bin\Debug\Zstandard.Net.dll
+C:\Users\benja\Visual Studio Projects\IT721\AutomaticEmails\AutomaticEmails\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\benja\Visual Studio Projects\IT721\AutomaticEmails\AutomaticEmails\bin\Debug\Google.Protobuf.xml
+C:\Users\benja\Visual Studio Projects\IT721\AutomaticEmails\AutomaticEmails\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\benja\Visual Studio Projects\IT721\AutomaticEmails\AutomaticEmails\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\benja\Visual Studio Projects\IT721\AutomaticEmails\AutomaticEmails\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\benja\Visual Studio Projects\IT721\AutomaticEmails\AutomaticEmails\bin\Debug\MailKit.xml
+C:\Users\benja\Visual Studio Projects\IT721\AutomaticEmails\AutomaticEmails\bin\Debug\MimeKit.xml
+C:\Users\benja\Visual Studio Projects\IT721\AutomaticEmails\AutomaticEmails\bin\Debug\MySql.Data.xml
+C:\Users\benja\Visual Studio Projects\IT721\AutomaticEmails\AutomaticEmails\bin\Debug\Renci.SshNet.xml
+C:\Users\benja\Visual Studio Projects\IT721\AutomaticEmails\AutomaticEmails\bin\Debug\System.Buffers.xml
+C:\Users\benja\Visual Studio Projects\IT721\AutomaticEmails\AutomaticEmails\bin\Debug\System.Memory.xml
+C:\Users\benja\Visual Studio Projects\IT721\AutomaticEmails\AutomaticEmails\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\benja\Visual Studio Projects\IT721\AutomaticEmails\AutomaticEmails\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\benja\Visual Studio Projects\IT721\AutomaticEmails\AutomaticEmails\obj\Debug\AutomaticEmails.csproj.CopyComplete
+C:\Users\benja\Visual Studio Projects\IT721\AutomaticEmails\AutomaticEmails\obj\Debug\AutomaticEmails.exe
+C:\Users\benja\Visual Studio Projects\IT721\AutomaticEmails\AutomaticEmails\obj\Debug\AutomaticEmails.pdb
+C:\Users\benja\Visual Studio Projects\IT721\AutomaticEmails\AutomaticEmails\bin\Debug\Ical.Net.dll
+C:\Users\benja\Visual Studio Projects\IT721\AutomaticEmails\AutomaticEmails\bin\Debug\NodaTime.dll
+C:\Users\benja\Visual Studio Projects\IT721\AutomaticEmails\AutomaticEmails\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\benja\Visual Studio Projects\IT721\AutomaticEmails\AutomaticEmails\bin\Debug\Ical.Net.pdb
+C:\Users\benja\Visual Studio Projects\IT721\AutomaticEmails\AutomaticEmails\bin\Debug\Ical.Net.xml
+C:\Users\benja\Visual Studio Projects\IT721\AutomaticEmails\AutomaticEmails\bin\Debug\NodaTime.xml
+C:\Users\benja\Visual Studio Projects\IT721\AutomaticEmails\AutomaticEmails\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\benja\Visual Studio Projects\IT721\AutomaticEmails\AutomaticEmails\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\benja\Visual Studio Projects\IT721\AutomaticEmails\AutomaticEmails\bin\Debug\Newtonsoft.Json.dll
+C:\Users\benja\Visual Studio Projects\IT721\AutomaticEmails\AutomaticEmails\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\benja\Visual Studio Projects\IT721\AutomaticEmails\AutomaticEmails\bin\Debug\Twilio.dll
+C:\Users\benja\Visual Studio Projects\IT721\AutomaticEmails\AutomaticEmails\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\benja\Visual Studio Projects\IT721\AutomaticEmails\AutomaticEmails\bin\Debug\Newtonsoft.Json.xml
+C:\Users\benja\Visual Studio Projects\IT721\AutomaticEmails\AutomaticEmails\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\benja\Visual Studio Projects\IT721\AutomaticEmails\AutomaticEmails\bin\Debug\Twilio.xml
+C:\Users\benja\Visual Studio Projects\IT721\AutomaticEmails\AutomaticEmails\obj\Debug\AutomaticEmails.csproj.CoreCompileInputs.cache
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\AutomaticEmails\bin\Debug\AutomaticEmails.exe.config
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\AutomaticEmails\bin\Debug\AutomaticEmails.exe
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\AutomaticEmails\bin\Debug\AutomaticEmails.pdb
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\AutomaticEmails\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\AutomaticEmails\bin\Debug\Google.Protobuf.dll
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\AutomaticEmails\bin\Debug\Ical.Net.dll
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\AutomaticEmails\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\AutomaticEmails\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\AutomaticEmails\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\AutomaticEmails\bin\Debug\MailKit.dll
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\AutomaticEmails\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\AutomaticEmails\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\AutomaticEmails\bin\Debug\MimeKit.dll
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\AutomaticEmails\bin\Debug\MySql.Data.dll
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\AutomaticEmails\bin\Debug\Newtonsoft.Json.dll
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\AutomaticEmails\bin\Debug\NodaTime.dll
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\AutomaticEmails\bin\Debug\Renci.SshNet.dll
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\AutomaticEmails\bin\Debug\System.Buffers.dll
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\AutomaticEmails\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\AutomaticEmails\bin\Debug\System.Memory.dll
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\AutomaticEmails\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\AutomaticEmails\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\AutomaticEmails\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\AutomaticEmails\bin\Debug\Twilio.dll
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\AutomaticEmails\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\AutomaticEmails\bin\Debug\Zstandard.Net.dll
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\AutomaticEmails\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\AutomaticEmails\bin\Debug\Google.Protobuf.xml
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\AutomaticEmails\bin\Debug\Ical.Net.pdb
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\AutomaticEmails\bin\Debug\Ical.Net.xml
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\AutomaticEmails\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\AutomaticEmails\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\AutomaticEmails\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\AutomaticEmails\bin\Debug\MailKit.xml
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\AutomaticEmails\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\AutomaticEmails\bin\Debug\MimeKit.xml
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\AutomaticEmails\bin\Debug\MySql.Data.xml
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\AutomaticEmails\bin\Debug\Newtonsoft.Json.xml
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\AutomaticEmails\bin\Debug\NodaTime.xml
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\AutomaticEmails\bin\Debug\Renci.SshNet.xml
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\AutomaticEmails\bin\Debug\System.Buffers.xml
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\AutomaticEmails\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\AutomaticEmails\bin\Debug\System.Memory.xml
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\AutomaticEmails\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\AutomaticEmails\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\AutomaticEmails\bin\Debug\Twilio.xml
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\AutomaticEmails\obj\Debug\AutomaticEmails.csprojAssemblyReference.cache
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\AutomaticEmails\obj\Debug\AutomaticEmails.csproj.CoreCompileInputs.cache
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\AutomaticEmails\obj\Debug\AutomaticEmails.csproj.CopyComplete
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\AutomaticEmails\obj\Debug\AutomaticEmails.exe
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\AutomaticEmails\obj\Debug\AutomaticEmails.pdb
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\VIsual Studio RAW Files\AutomaticEmails\bin\Debug\AutomaticEmails.exe.config
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\VIsual Studio RAW Files\AutomaticEmails\bin\Debug\AutomaticEmails.exe
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\VIsual Studio RAW Files\AutomaticEmails\bin\Debug\AutomaticEmails.pdb
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\VIsual Studio RAW Files\AutomaticEmails\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\VIsual Studio RAW Files\AutomaticEmails\bin\Debug\Google.Protobuf.dll
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\VIsual Studio RAW Files\AutomaticEmails\bin\Debug\Ical.Net.dll
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\VIsual Studio RAW Files\AutomaticEmails\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\VIsual Studio RAW Files\AutomaticEmails\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\VIsual Studio RAW Files\AutomaticEmails\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\VIsual Studio RAW Files\AutomaticEmails\bin\Debug\MailKit.dll
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\VIsual Studio RAW Files\AutomaticEmails\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\VIsual Studio RAW Files\AutomaticEmails\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\VIsual Studio RAW Files\AutomaticEmails\bin\Debug\MimeKit.dll
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\VIsual Studio RAW Files\AutomaticEmails\bin\Debug\MySql.Data.dll
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\VIsual Studio RAW Files\AutomaticEmails\bin\Debug\Newtonsoft.Json.dll
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\VIsual Studio RAW Files\AutomaticEmails\bin\Debug\NodaTime.dll
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\VIsual Studio RAW Files\AutomaticEmails\bin\Debug\Renci.SshNet.dll
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\VIsual Studio RAW Files\AutomaticEmails\bin\Debug\System.Buffers.dll
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\VIsual Studio RAW Files\AutomaticEmails\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\VIsual Studio RAW Files\AutomaticEmails\bin\Debug\System.Memory.dll
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\VIsual Studio RAW Files\AutomaticEmails\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\VIsual Studio RAW Files\AutomaticEmails\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\VIsual Studio RAW Files\AutomaticEmails\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\VIsual Studio RAW Files\AutomaticEmails\bin\Debug\Twilio.dll
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\VIsual Studio RAW Files\AutomaticEmails\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\VIsual Studio RAW Files\AutomaticEmails\bin\Debug\Zstandard.Net.dll
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\VIsual Studio RAW Files\AutomaticEmails\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\VIsual Studio RAW Files\AutomaticEmails\bin\Debug\Google.Protobuf.xml
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\VIsual Studio RAW Files\AutomaticEmails\bin\Debug\Ical.Net.pdb
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\VIsual Studio RAW Files\AutomaticEmails\bin\Debug\Ical.Net.xml
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\VIsual Studio RAW Files\AutomaticEmails\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\VIsual Studio RAW Files\AutomaticEmails\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\VIsual Studio RAW Files\AutomaticEmails\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\VIsual Studio RAW Files\AutomaticEmails\bin\Debug\MailKit.xml
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\VIsual Studio RAW Files\AutomaticEmails\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\VIsual Studio RAW Files\AutomaticEmails\bin\Debug\MimeKit.xml
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\VIsual Studio RAW Files\AutomaticEmails\bin\Debug\MySql.Data.xml
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\VIsual Studio RAW Files\AutomaticEmails\bin\Debug\Newtonsoft.Json.xml
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\VIsual Studio RAW Files\AutomaticEmails\bin\Debug\NodaTime.xml
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\VIsual Studio RAW Files\AutomaticEmails\bin\Debug\Renci.SshNet.xml
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\VIsual Studio RAW Files\AutomaticEmails\bin\Debug\System.Buffers.xml
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\VIsual Studio RAW Files\AutomaticEmails\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\VIsual Studio RAW Files\AutomaticEmails\bin\Debug\System.Memory.xml
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\VIsual Studio RAW Files\AutomaticEmails\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\VIsual Studio RAW Files\AutomaticEmails\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\VIsual Studio RAW Files\AutomaticEmails\bin\Debug\Twilio.xml
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\VIsual Studio RAW Files\AutomaticEmails\obj\Debug\AutomaticEmails.csprojAssemblyReference.cache
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\VIsual Studio RAW Files\AutomaticEmails\obj\Debug\AutomaticEmails.csproj.CoreCompileInputs.cache
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\VIsual Studio RAW Files\AutomaticEmails\obj\Debug\AutomaticEmails.csproj.CopyComplete
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\VIsual Studio RAW Files\AutomaticEmails\obj\Debug\AutomaticEmails.exe
+C:\Users\benja\OneDrive\Documents\HSB Consulting Ltd\AutomaticEmails\VIsual Studio RAW Files\AutomaticEmails\obj\Debug\AutomaticEmails.pdb

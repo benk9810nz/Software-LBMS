@@ -1,0 +1,15 @@
+D:\--- 2020 SIT BIT Year 3\721 Software Engineering\Project\MainLibrary\bin\Debug\MainLibrary.dll
+D:\--- 2020 SIT BIT Year 3\721 Software Engineering\Project\MainLibrary\bin\Debug\MainLibrary.pdb
+D:\--- 2020 SIT BIT Year 3\721 Software Engineering\Project\MainLibrary\obj\Debug\MainLibrary.csprojAssemblyReference.cache
+D:\--- 2020 SIT BIT Year 3\721 Software Engineering\Project\MainLibrary\obj\Debug\MainLibrary.dll
+D:\--- 2020 SIT BIT Year 3\721 Software Engineering\Project\MainLibrary\obj\Debug\MainLibrary.pdb
+D:\--- 2020 SIT BIT Year 3\721 Software Engineering\Project\MainLibrary\bin\Debug\BouncyCastle.Crypto.dll
+D:\--- 2020 SIT BIT Year 3\721 Software Engineering\Project\MainLibrary\bin\Debug\Google.Protobuf.dll
+D:\--- 2020 SIT BIT Year 3\721 Software Engineering\Project\MainLibrary\bin\Debug\MySql.Data.dll
+D:\--- 2020 SIT BIT Year 3\721 Software Engineering\Project\MainLibrary\bin\Debug\Renci.SshNet.dll
+D:\--- 2020 SIT BIT Year 3\721 Software Engineering\Project\MainLibrary\bin\Debug\Ubiety.Dns.Core.dll
+D:\--- 2020 SIT BIT Year 3\721 Software Engineering\Project\MainLibrary\bin\Debug\Google.Protobuf.xml
+D:\--- 2020 SIT BIT Year 3\721 Software Engineering\Project\MainLibrary\bin\Debug\MySql.Data.xml
+D:\--- 2020 SIT BIT Year 3\721 Software Engineering\Project\MainLibrary\bin\Debug\Renci.SshNet.xml
+D:\--- 2020 SIT BIT Year 3\721 Software Engineering\Project\MainLibrary\obj\Debug\MainLibrary.csproj.CopyComplete
+D:\--- 2020 SIT BIT Year 3\721 Software Engineering\Project\MainLibrary\obj\Debug\MainLibrary.csproj.CoreCompileInputs.cache
